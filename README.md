@@ -4,6 +4,7 @@ Java 9 JShell ("kulla") Vagrant box
 Run:
 
 ```shell
-vagrant up
-jshell
+> vagrant up
+> vagrant ssh
+> jshell
 ```
